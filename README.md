@@ -5,5 +5,5 @@ To get add it to your website, copy the text from snake.html and paste it in you
 Attribution would be appreciated.
 
 Disclaimer:
-• You need a web server running to use this!
-• Any errors will not be responded to.
+	• You need a web server running to use this!
+	• Any errors will not be responded to.

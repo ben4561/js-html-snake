@@ -1,2 +1,5 @@
-# js-html-snake
-A version of Classic Snake in JS and HTML
+# Classic Snake created in JS and HTML
+A version of Classic Snake created in JS and HTML
+
+To get add it to your website, copy the text from snake.html and paste it in your website.
+Atribution would be appreciated.
